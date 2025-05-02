@@ -16,22 +16,6 @@ Check out My [Personal Blog](https://hojjatkamyabi.github.io/)!
 
 ---
 
-## My Projects
-
-### [LinkedIn Job Scraper & Trend Dashboard](https://github.com/HojjatKamyabi/linkedin-job-scraper)  
-A project that collects job data from LinkedIn, extracts skill requirements, and shows trends using Power BI.
-
-### [Car Sales Dashboard (Power BI)](https://github.com/HojjatKamyabi/car-sales-dashboard)  
-A dashboard showing car sales data in Germany with filters and visuals.
-
-### [Motor Vehicle Repair Data Cleaning (SQL)](https://github.com/HojjatKamyabi/motor-vehicle-sql-cleaning)  
-Cleaned and prepared vehicle repair data using SQL for better analysis.
-
-### [German Credit Risk Dashboard (Excel)](https://github.com/HojjatKamyabi/german-credit-risk-dashboard)  
-An Excel dashboard to explore and understand credit risk data.
-
----
-
 ## Contact
 
 - [LinkedIn]([https://www.linkedin.com/in/hojjat-kamyabi/](https://www.linkedin.com/in/hojjat-kamyabi-474595319/))
