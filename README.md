@@ -19,5 +19,5 @@ Check out My [Personal Blog](https://hojjatkamyabi.github.io/)!
 ## Contact
 
 - [LinkedIn]([https://www.linkedin.com/in/hojjat-kamyabi/](https://www.linkedin.com/in/hojjat-kamyabi-474595319/))
-- Email: hojjat.kamyabi[at]gmail.com
+- Email: hojjat.kamyabi@gmail.com
 - [Personal Blog](https://hojjatkamyabi.github.io/)  
