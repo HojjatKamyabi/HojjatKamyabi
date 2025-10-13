@@ -1,18 +1,17 @@
-# Hi, I'm Hojjat Kamyabi
+# Hi, This is Hojjat
 
-Master's student in Web and Data Science in Germany
-
-Data Analyst | Software Developer
+Software Developer | Data Enthusiast
 
 ---
 
 ## About Me
 
-I have a background in Software Engineering and a strong interest in working with data.  
-I enjoy building simple and useful solutions using tools like Python, SQL, and Excel.  
-Right now, I'm in Germany and looking for roles in data analysis, Python development, or junior data engineering.
+A master's student in Web and Data Science in Germany
+Also, I have a background in Software Engineering and a strong interest in working with data.  
+I enjoy building simple and useful solutions using tools like Spark, SQL, and Cloud.  
+Right now, I'm working as a research assistant at GESIS in Cologne, Germany.
 
-Check out My [Personal Blog](https://hojjatkamyabi.github.io/)!
+Check out my [Personal Blog](https://hojjatkamyabi.github.io/)!
 
 ---
 
