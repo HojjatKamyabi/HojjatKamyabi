@@ -1,22 +1,28 @@
-# Hi, This is Hojjat
+# Hi, I'm Hojjat
 
-Software Developer | Data Enthusiast
+I'm an MSc Web and Data Science student at the University of Koblenz and a Student Research Assistant at GESIS.
 
----
+My work focuses on research data workflows and data quality tools for computational social science.
+## What I Work On
 
-## About Me
+- Computational social science and digital behavioral data
+- Data quality tools and reproducible research workflows
+- Data collection, preparation, and analysis
+- Python/R-based reporting and automation
+- Open-source research software with Docker, Quarto, GitHub, and APIs
 
-A master's student in Web and Data Science, also working as a research assistant at GESIS in Cologne, Germany.  
-I have a background in Software Engineering and a strong interest in working with data.  
-I enjoy building simple solutions to complex challenges, using tools like Spark, SQL, and Cloud.  
+## Technical Stack
 
+**Languages:** Python, R, SQL  
+**Research Software:** Quarto, Docker, reproducible workflows  
+**Data Work:** pandas, statistical analysis, Power BI, PostgreSQL  
+**Workflow Tools:** Git, FastAPI, Airflow
 
-Check out my [Personal Blog](https://hojjatkamyabi.github.io/)!
+## Research Interests
 
----
+Computational social science, data quality, and AI-assisted research workflows.
 
 ## Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/hojjat-kamyabi/](https://www.linkedin.com/in/hojjat-kamyabi-474595319/))
-- Email: hojjat.kamyabi.ir@gmail.com
-- [Personal Blog](https://hojjatkamyabi.github.io/)  
+- LinkedIn: https://www.linkedin.com/in/hojjatkamyabi
+- Portfolio: https://hojjatkamyabi.github.io
